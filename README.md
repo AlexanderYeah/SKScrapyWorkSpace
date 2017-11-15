@@ -14,5 +14,8 @@ Scrapy Learn
 是爬取tencent 网招聘信息的一个简单的项目  
 * 自动翻页采集  
 * 爬取过程中遇到一个TypeError: Object of type 'bytes' is not JSON serializable 的错误    
-  解决方案根据Stack Overflow （https://stackoverflow.com/questions/44682018/typeerror-object-of-type-bytes-is-not-json-serializable）
+  解决方案根据Stack Overflow （https://stackoverflow.com/questions/44682018/typeerror-object-of-type-bytes-is-not-json-serializable）  
+ 
+### 三 项目3 ：GetDyttInfoList 爬取电影天堂国产电影下载信息  
+* 第一次自主使用scrapy 框架 ，就是元素算对了，还是报错，待解决。
 
