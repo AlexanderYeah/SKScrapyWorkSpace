@@ -18,5 +18,6 @@ Scrapy Learn
  
 ### 三 项目3 ：GetDyttInfoList 爬取电影天堂国产电影下载信息  
 * 第一次自主使用scrapy 框架 ，就是元素算对了，还是报错，待解决。  
-* 忘记备注了，安装谷歌浏览器的插件 xpath helper ，使用crtl  + shift + x，能够快速定位标签
+* 忘记备注了，安装谷歌浏览器的插件 xpath helper ，使用crtl  + shift + x，能够快速定位标签  
+* 11-16号 Finaly, 今天晚上算是成功爬取了第一阶段,电影名字 和 链接 和 时间。
 
