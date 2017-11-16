@@ -10,7 +10,6 @@ class GetdyttinfolistPipeline(object):
     def __init__(self):
         self.f = open("dyttMovieList.json", 'wb');
 
-
     def process_item(self, item, spider):
         # 处理数据
         content = json.dumps(dict(item),ensure_ascii=False) + "," +"\n"
